@@ -1,0 +1,31 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    width: 100%;
+}
+
+#root {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#contenedor {
+    width: 95%;
+  }
+
+html{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
